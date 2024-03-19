@@ -29,8 +29,7 @@ En nuestro proyecto contaremos la historia de Arturo, alías "El rugido" que qui
 
 ### Personaje!
 
-
-![]([image (1)](https://github.com/AhmedRod10/my_storytelling_G14/assets/44216136/32a2314f-5701-4e81-87a2-d0b71eaf639f))
+![image (1)](https://github.com/AhmedRod10/my_storytelling_G14/assets/44216136/5284159a-ef58-4db3-8443-728affc5d75d)
 
 Nombre: Arturo "El rugido"
 
